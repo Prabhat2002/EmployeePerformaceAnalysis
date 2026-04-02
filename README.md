@@ -5,3 +5,5 @@ To run this program let's say you are putting all your code under a folder newfo
 put your program in new folder 
 
 Now path***/newfolder in integrated terminal run code -> streamlit run employee.py
+
+New file Updated_code_employee.py is giving same result but just comments and some new lines to understand it more use any of them but updated one will give you some more ideas.
